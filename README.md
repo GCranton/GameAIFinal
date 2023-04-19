@@ -1,5 +1,11 @@
 # Guinevere Cranton’s Modular Game AI
 
+## Installation
+
+Clone this repository into the Assets folder of a new Unity project.
+
+# Final Project Writeup
+
 ## Abstract
 
 For my project, I built an extensible modular AI system and implemented tactical position selection in it. I used the Unity Game Engine and its built in pathfinding so that I could focus on the higher-level decision making. As of submission time, my AI is capable of seeking out the player or good cover locations in order to preserve its life and attack the player. It uses a ranked utility system, and picks the best combination of actions for any given circumstance.
